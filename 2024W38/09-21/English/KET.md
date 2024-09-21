@@ -1,5 +1,3 @@
-Sure! Here’s the complete KET sample exam for you:
-
 ### KET Sample Exam
 
 #### Part 1: Reading and Writing (1 hour)
@@ -73,11 +71,108 @@ Sure! Here’s the complete KET sample exam for you:
 3. **Role Play**: The examiner will give you a situation, and you will respond accordingly.
 
 ---
+-
 
-### Tips for Preparation:
-- Practice reading comprehension by reading short texts and summarizing them.
-- Improve writing skills by keeping a diary or writing short essays.
-- Listen to English audio materials, like podcasts or songs, to enhance listening skills.
-- Practice speaking with friends or language partners.
+---
+-
 
-Good luck with your preparation!
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
+-
+
+---
