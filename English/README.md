@@ -10,3 +10,8 @@
 - [09-26](../2024W39/09-26/English/README.md)
 - [09-27](../2024W39/09-27/English/README.md)
 - [09-28](../2024W39/09-28/English/README.md)
+- [09-29](../2024W39/09-29/English/README.md)
+
+#### 2024W40
+- [09-30](../2024W40/09-30/English/README.md)
+- [10-01](../2024W40/10-01/English/README.md)
