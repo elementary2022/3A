@@ -18,3 +18,15 @@
 - [10-02](../2024W40/10-02/English/README.md)
 - [10-03](../2024W40/10-03/English/README.md)
 - [10-04](../2024W40/10-04/English/README.md)
+
+#### 2024W42
+- [10-20](../2024W42/10-20/English/README.md)
+
+#### 2024W43
+- [10-21](../2024W43/10-21/English/README.md)
+- [10-22](../2024W43/10-22/English/README.md)
+- [10-23](../2024W43/10-23/English/README.md)
+- [10-24](../2024W43/10-24/English/README.md)
+- [10-25](../2024W43/10-25/English/README.md)
+- [10-26](../2024W43/10-26/English/README.md)
+- [10-27](../2024W43/10-27/English/README.md)
